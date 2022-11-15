@@ -1,11 +1,5 @@
 {
-  "name": "study",
-  "version": "1.0.0",
-  "description": "test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Sudhir Bhambu",
-  "license": "ISC"
+  "dependencies": {
+    "git-init": "^1.0.0"
+  }
 }
